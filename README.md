@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Naveena!
 
 ## 🧑‍💻 About Me
-- 💡 I'm a Computer Science student intrested in developing my problem solving skills
+- 💡 I'm a Computer Science Engineering student intrested in developing my problem solving skills
 - 🧠 Currently sharpening my problem-solving skills with DSA
 - 🌐 Exploring Web Development and learning how to build simple websites from scratch
 - 🧵 Curious about what happens *under the hood*, so I’m experimenting with OS concepts via [eXpOS project](https://exposnitc.github.io/)
